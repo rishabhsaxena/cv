@@ -1,37 +1,55 @@
-## Welcome to GitHub Pages
+## **Rishabh Saxena**
+**Email**: <em>rishabhsaxenabits01@gmail.com</em>  
+**Github**: <em>rishabhsaxena</em>  
+**LinkedIn**: <em>https://www.linkedin.com/in/rishabhsaxena</em>  
+**Phone Number**: <em>+91 9900420093</em>
 
-You can use the [editor on GitHub](https://github.com/rishabhsaxena/cv/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+## Education
+**Birla Institute of Technology and Science, Goa India**  
+<em>Information Systems (Msc. Tech), 2010 - 2014</em>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Experience
 
-### Markdown
+- **Tech Consultant, Chatpod**  
+Group discussions gamified, http://chatpod.live  
+<em> Built the initial product as a solo gig to crack the go-to market strategy  
+Nov 2019 - Feb 2020
+</em>
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+- **Partner / Software Developer, Codalyze Technologies**  
+Dev shop catering to startups and enterprises. Clintele includes DSP Mutual funds, Crypto Casino, Barnes & Noble, HotStar, KheloMore, Paysense  
+<em>Part of the team as we grew from 3 to 20+ engineers  
+2016 - 2019
+</em>
 
-```markdown
-Syntax highlighted code block
+- **Tech Consulting**  
+<em>Solutions for Legal Practises, Logistics  
+2014 - 2015
+</em>
 
-# Header 1
-## Header 2
-### Header 3
+## Recent Projects
 
-- Bulleted
-- List
+- **Chatpod**  
+<em>Group discussions gamified, http://chatpod.live </em>
+  - Video conferencing built on Agora.io
+  - WebSockets based chat and animated emojis
+  - Contests and leaderboard  
 
-1. Numbered
-2. List
+- **Khelomore.com revamp**  
+<em>Sports coaches, academies and turfs aggregator</em>
+  - Oversaw development
 
-**Bold** and _Italic_ and `Code` text
+- **DSP Mutual Funds**  
+<em>Brokerage Online Software Solutions (Internal tool)</em>
+  - Dynamic distributor commission as per DSP's process 
+  - Configurable workflow  
 
-[Link](url) and ![Image](src)
-```
+- **Betking / Micro**  
+<em>Crypto based gambling apps and exchange (Now defunct, betking.io)</em>
+  - Event sourcing and CQRS based architecture
+  - Provably fair games like dice, roulette, bitkong with over 100M bets placed
+  - Upto 5000 orders/sec could be processed at the exchange
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+## Skills
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/rishabhsaxena/cv/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+<em>NodeJs, PostgreSQL, ReactJS, VueJS, React Native</em>
