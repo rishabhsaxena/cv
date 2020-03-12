@@ -1,4 +1,7 @@
 ## **Rishabh Saxena**
+Full-stack development, High level design*, HTML5 Games, React native app development (Android / iOS), Leading engineering teams and delivery, Product stints
+
+
 **Email**: <em>rishabhsaxenabits01@gmail.com</em>  
 **Github**: <em>rishabhsaxena</em>  
 **LinkedIn**: <em>https://www.linkedin.com/in/rishabhsaxena</em>  
